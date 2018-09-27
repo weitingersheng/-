@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div id="app">
+    <ul>
+        <li v-for="(list,index) in lists" @click.capture="li(index)">
+            <p>{{index +1 }} 组</p>
+
+            <p v-for="(l,index) in list" :class="{active:l.bool}" @click="p(index)">
+                座位号：{{l.seat}}
+                姓名：{{l.name}}
+                <img :src="l.head" alt="">
+                职位：{{l.post}}
+                bool：{{l.bool}}
+            </p>
+
+        </li>
+    </ul>
+</div>
+
+<script src="https://cdn.bootcss.com/vue/2.5.16/vue.js"></script>
+<script src="https://cdn.bootcss.com/vue-resource/1.5.1/vue-resource.min.js"></script>
+<script src="js/script.js"></script>
+</body>
+</html>

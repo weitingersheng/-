@@ -1,0 +1,290 @@
+[
+  [
+    {
+      "seat": 1,
+      "name": "",
+      "head": "img/user.jpg",
+      "post": "学员",
+      "bool": false
+    },
+    {
+      "seat": 2,
+      "name": "",
+      "head": "img/user.jpg",
+      "post": "学员",
+      "bool": false
+    },
+    {
+      "seat": 3,
+      "name": "",
+      "head": "img/user.jpg",
+      "post": "学员",
+      "bool": false
+    },
+    {
+      "seat": 4,
+      "name": "",
+      "head": "img/user.jpg",
+      "post": "学员",
+      "bool": false
+    },
+    {
+      "seat": 5,
+      "name": "",
+      "head": "img/user.jpg",
+      "post": "学员",
+      "bool": false
+    },
+    {
+      "seat": 6,
+      "name": "",
+      "head": "img/user.jpg",
+      "post": "学员",
+      "bool": false
+    },
+    {
+      "seat": 7,
+      "name": "",
+      "head": "img/user.jpg",
+      "post": "学员",
+      "bool": false
+    },
+    {
+      "seat": 8,
+      "name": "",
+      "head": "img/user.jpg",
+      "post": "学员",
+      "bool": false
+    },
+    {
+      "seat": 9,
+      "name": "",
+      "head": "img/user.jpg",
+      "post": "学员",
+      "bool": false
+    },
+    {
+      "seat": 10,
+      "name": "",
+      "head": "img/user.jpg",
+      "post": "学员",
+      "bool": false
+    }
+  ],
+  [
+    {
+      "seat": 11,
+      "name": "赵佳宇",
+      "head": "img/user.jpg",
+      "post": "学员",
+      "bool": false
+    },
+    {
+      "seat": 12,
+      "name": "郭鸣宇",
+      "head": "img/user.jpg",
+      "post": "学员",
+      "bool": false
+    },
+    {
+      "seat": 13,
+      "name": "白佳伟",
+      "head": "img/user.jpg",
+      "post": "学员",
+      "bool": false
+    },
+    {
+      "seat": 14,
+      "name": "韩双",
+      "head": "img/user.jpg",
+      "post": "学员",
+      "bool": false
+    },
+    {
+      "seat": 15,
+      "name": "王佳琪",
+      "head": "img/user.jpg",
+      "post": "学员",
+      "bool": false
+    },
+    {
+      "seat": 16,
+      "name": "杜宝",
+      "head": "img/user.jpg",
+      "post": "学员",
+      "bool": false
+    },
+    {
+      "seat": 17,
+      "name": "宁志伟",
+      "head": "img/user.jpg",
+      "post": "学员",
+      "bool": false
+    },
+    {
+      "seat": 18,
+      "name": "李金朋",
+      "head": "img/user.jpg",
+      "post": "学员",
+      "bool": false
+    },
+    {
+      "seat": 19,
+      "name": "",
+      "head": "img/user.jpg",
+      "post": "学员",
+      "bool": false
+    },
+    {
+      "seat": 20,
+      "name": "",
+      "head": "img/user.jpg",
+      "post": "学员",
+      "bool": false
+    }
+  ],
+  [
+    {
+      "seat": 21,
+      "name": "刘江山",
+      "head": "img/user.jpg",
+      "post": "学员",
+      "bool": false
+    },
+    {
+      "seat": 22,
+      "name": "唐志国",
+      "head": "img/user.jpg",
+      "post": "学员",
+      "bool": false
+    },
+    {
+      "seat": 23,
+      "name": "许升",
+      "head": "img/user.jpg",
+      "post": "学员",
+      "bool": false
+    },
+    {
+      "seat": 24,
+      "name": "郑佳兴",
+      "head": "img/user.jpg",
+      "post": "学员",
+      "bool": false
+    },
+    {
+      "seat": 25,
+      "name": "佟帅",
+      "head": "img/user.jpg",
+      "post": "学员",
+      "bool": false
+    },
+    {
+      "seat": 26,
+      "name": "鲍佳旺",
+      "head": "img/user.jpg",
+      "post": "卫生委员",
+      "bool": false
+    },
+    {
+      "seat": 27,
+      "name": "吴泓延",
+      "head": "img/user.jpg",
+      "post": "学员",
+      "bool": false
+    },
+    {
+      "seat": 28,
+      "name": "彭杰",
+      "head": "img/user.jpg",
+      "post": "学员",
+      "bool": false
+    },
+    {
+      "seat": 29,
+      "name": "侯常山",
+      "head": "img/user.jpg",
+      "post": "学员",
+      "bool": false
+    },
+    {
+      "seat": 30,
+      "name": "陈涛",
+      "head": "img/user.jpg",
+      "post": "学员",
+      "bool": false
+    }
+  ],
+  [
+    {
+      "seat": 31,
+      "name": "王哲",
+      "head": "img/user.jpg",
+      "post": "班长",
+      "bool": false
+    },
+    {
+      "seat": 32,
+      "name": "冯崇智",
+      "head": "img/user.jpg",
+      "post": "纪律委员",
+      "bool": false
+    },
+    {
+      "seat": 33,
+      "name": "赵晴晴",
+      "head": "img/user.jpg",
+      "post": "学员",
+      "bool": false
+    },
+    {
+      "seat": 34,
+      "name": "郭凯杰",
+      "head": "img/user.jpg",
+      "post": "学员",
+      "bool": false
+    },
+    {
+      "seat": 35,
+      "name": "张浩瀚",
+      "head": "img/user.jpg",
+      "post": "学员",
+      "bool": false
+    },
+    {
+      "seat": 36,
+      "name": "李长乐",
+      "head": "img/user.jpg",
+      "post": "学员",
+      "bool": false
+    },
+    {
+      "seat": 37,
+      "name": "王同喜",
+      "head": "img/user.jpg",
+      "post": "学员",
+      "bool": false
+    },
+    {
+      "seat": 38,
+      "name": "高硕",
+      "head": "img/user.jpg",
+      "post": "学员",
+      "bool": false
+    },
+    {
+      "seat": 39,
+      "name": "陈利君",
+      "head": "img/user.jpg",
+      "post": "学员",
+      "bool": false
+    },
+    {
+      "seat": 40,
+      "name": "董晓飞",
+      "head": "http://q.qlogo.cn/headimg_dl?bs=qq&dst_uin=5927796&spec=100",
+      "post": "教员",
+      "bool": false
+    }
+  ]
+]
